@@ -1,10 +1,10 @@
 ## Olá!! Eu sou o Daniel Baldez
 
-<div align=“center”>
-<a href="https://github.com/Baldez27“>
-<img height=“130em” src=”https://github-readme-stats.vercel.app/api?username=Baldez27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true“/>
-<img height=“130em” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=Baldez27&layout=compact&langs_count=7&theme=tokyonight"/>
-
+<div align="center">
+  <a href="https://github.com/Baldez27">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Baldez27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baldez27&layout=compact&langs_count=7&theme=tokyonight"/>
+   
 </div>
   
 
