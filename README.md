@@ -1,39 +1,46 @@
-## Olá!! Eu sou o Daniel Baldez
+
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51D1F6&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!;My+name+is+Daniel;Studying+systems+development;Always+wanting+to+learn+more)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Baldez27">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Baldez27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baldez27&layout=compact&langs_count=7&theme=tokyonight"/>
-   
-</div>
-  
-
-  ### Estou estudando (front-end) 🎨:
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
-  
-  ### Estou estudando (back-end) 💻:
-  <img align="center" alt="Dan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Dan-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Dan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Dan-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-
-
-</div>
-  
-### Contatos ☎:
-
-<div>
-  <a href="https://instagram.com/danbaldez27" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Daniel27#8001" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:danielbaldez2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-baldez-a725ab237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  
-  
+	 <h3> 
+		 <br><br>
+		 <img src="https://emoji.discadia.com/emojis/0971c860-4b44-4d29-ac1e-59f9cc9cd297.gif" width="50" align="bottom"/>
+		Welcome to my Profile!  
+	 </h3>
 </div>
 
+
+<div align="center">
+	<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Baldez27&show_icons=true&count_private=true&hide_border=true&title_color=51D1F6&icon_color=83d4b9&text_color=51D1F6&bg_color=000000ff"/>
+	<img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baldez27&layout=compact&hide_border=true&title_color=51D1F6&icon_color=51D1F6&text_color=c9d1d9&bg_color=000000ff" />
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Baldez27&hide_border=true&area=true&layout=compact&title_color=51D1F6&bg_color=000000FF&color=32A89C&line=02A676&point=281E5D&area_color=51D1F6)
+ 
+</div>
+
+<br>
+
+### 🛠️ Tools:
+
+<div align="center">
+	<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&color=51D1F6"/>
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=51D1F6"/>
+	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=51D1F6"/>
+	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=51D1F6"/>
+</div>
+
+### 👩🏻‍💻 Studying:
+<div align="center">
+	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=51D1F6"/>
+	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=51D1F6"/>
+	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=51D1F6"/>
+	<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=51D1F6"/>
+	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&color=51D1F6"/>
+</div>
+
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51D1F6&height=120&section=header"/>
