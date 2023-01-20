@@ -22,7 +22,7 @@
 
 <br>
 
-### 🛠️ Tools;
+### 🛠️ Tools:
 
 <div align="center">
 	<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&color=51D1F6"/>
