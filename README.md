@@ -6,7 +6,6 @@
 <div align="center">
 	 <h3> 
 		 <br><br>
-		 <img src="https://emoji.discadia.com/emojis/0971c860-4b44-4d29-ac1e-59f9cc9cd297.gif" width="50" align="bottom"/>
 		Welcome to my Profile!  
 	 </h3>
 </div>
