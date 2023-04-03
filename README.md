@@ -31,6 +31,5 @@
 	<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=51D1F6"/>
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&color=51D1F6"/>
 </div>
-
  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51D1F6&height=120&section=footer"/>
