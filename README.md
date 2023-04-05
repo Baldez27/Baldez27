@@ -5,7 +5,7 @@
 
 <div align="center">
 	 <h3> 
-		 <br><br>
+	 	<br><br>
 		Welcome to my Profile!  
 	 </h3>
 </div>
@@ -33,4 +33,3 @@
 </div>
  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51D1F6&height=120&section=footer"/>
-
